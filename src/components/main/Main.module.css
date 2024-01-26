@@ -1,0 +1,15 @@
+.container {
+	background: #302c42;
+	border-radius: 20px;
+}
+
+.containerButton {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	margin-top: 20px;
+	padding: 10px;
+}
+.containerCards {
+	margin-top: 27px;
+}
